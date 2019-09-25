@@ -2,7 +2,6 @@
 
 Blogifier is multi-user, lightweight blog written in .NET Core with Angular front-end. For programmers, it is easy maintain and extend and for designers, it is simple to customize using familiar tools.
 
-[![Build Status](https://dev.azure.com/koznak/Blogifier/_apis/build/status/blogifierdotnet.Blogifier)](https://dev.azure.com/koznak/Blogifier/_build/latest?definitionId=3)
 
 ## System Requirements
 
